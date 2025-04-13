@@ -1,0 +1,31 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f9;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  color: #333;
+}
+
+button {
+  cursor: pointer;
+}
+
+.grid {
+  display: grid;
+  gap: 1rem;
+}
+
+.shadow-lg {
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.border {
+  border: 1px solid #ddd;
+}
+
+.bg-white {
+  background-color: #fff;
+}
